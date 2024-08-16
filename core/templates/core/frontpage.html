@@ -1,0 +1,10 @@
+{% extends 'core/base.html' %}
+{% load static %}
+{% block title %}Welcome | {% endblock %}
+{% block content %}
+<div class="p-10 lg:p-20 text-center">
+    <h1 class="text-3xl lg:text-6xl text-white mb-8">Dev Amigos</h1>
+    <img src="{% static 'core/img.jpg' %}" alt="Dev Amigos Image" class="mx-auto rounded-lg shadow-lg" style="width: 1680px; height: 1080px;">
+
+</div>
+{% endblock %}
