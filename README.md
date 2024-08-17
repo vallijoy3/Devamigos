@@ -1,6 +1,13 @@
 # Devamigos
 chatting rooms 
 Certainly! Here’s the full content ready for your GitHub README file:
+<img width="1510" alt="Screenshot 2024-08-16 at 4 20 23 AM" src="https://github.com/user-attachments/assets/b918ad2b-1ded-484d-8223-1df55e6ae43d">
+
+<img width="1510" alt="Screenshot 2024-08-16 at 4 20 31 AM" src="https://github.com/user-attachments/assets/0c5753f0-ebd7-449b-9166-c7f6dd9c1e33">
+<img width="1510" alt="Screenshot 2024-08-16 at 4 20 38 AM" src="https://github.com/user-attachments/assets/715b4c3c-b0a3-48a3-ac17-c1b5dc9be97e">
+
+
+
 
 ```markdown
 # Django Web Chat App
