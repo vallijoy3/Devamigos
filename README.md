@@ -46,3 +46,15 @@ To set up and run the Django Web Chat App, follow these steps:
    ```bash
    git clone https://github.com/projectname/Devamigos.git
    cd Devamigos
+
+<img width="1510" alt="Screenshot 2024-08-16 at 4 20 23 AM" src="https://github.com/user-attachments/assets/a2ddacc5-fc1a-43e7-b4b0-f96441ff1f50">
+
+   
+<img width="1510" alt="Screenshot 2024-08-16 at 4 20 31 AM" src="https://github.com/user-attachments/assets/b79e68cf-286c-42da-b1c4-702bff5dd1d2">
+
+<img width="1510" alt="Screenshot 2024-08-16 at 4 20 38 AM" src="https://github.com/user-attachments/assets/e435d783-7737-42d0-8850-f4ccbeb9edc4">
+
+
+
+
+
